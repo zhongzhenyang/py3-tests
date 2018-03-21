@@ -6,3 +6,12 @@ Pipfile
 .settings
 .idea
 *.iml
+*.pyc
+*.pyo
+*.ymlc
+*.ymlc~
+*.scssc
+*.so
+*~
+.#*
+.DS_Store
