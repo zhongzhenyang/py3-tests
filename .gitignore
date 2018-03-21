@@ -1,0 +1,8 @@
+.env
+.python-version
+Pipfile
+.classpath
+.project
+.settings
+.idea
+*.iml

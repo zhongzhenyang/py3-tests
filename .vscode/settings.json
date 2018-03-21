@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "Ubuntu Mono",
+    "python.linting.enabled": true,
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "boundary"
+}
